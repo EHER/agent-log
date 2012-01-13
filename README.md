@@ -7,7 +7,7 @@ PHPzinho para logar o agent de um browser/celular.
 Clone o projeto em algum lugar visível do seu webserver.
 
     cd /var/www/
-    git clone <rep> agent
+    git clone git@github.com:EHER/agent-log.git agent
     cd agent
 
 ## Como usar
