@@ -8,7 +8,6 @@ Clone o projeto em algum lugar visível do seu webserver.
 
     cd /var/www/
     git clone git@github.com:EHER/agent-log.git agent
-    cd agent
 
 ## Como usar
 
