@@ -18,7 +18,7 @@ Digite no navegador a url que dá acesso à nova pasta criada no clone.
 
     http://localhost/agent
 
-Verifique que vai printar as informações de data, hora, ip, agent e name (já mostro como usar isso).
+Verifique que vai printar as informações de data, hora, ip, agent e name (já mostro como usar o "name").
 
 
 ## Como ver o log
